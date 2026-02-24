@@ -47,7 +47,7 @@
 ---
 
 ## What Is This Project?
-
+![Readit Demo](apprun_demo.png)
 **Readit** is a fully functional, production-quality clone of Reddit built with React 18 and Vite. It replicates the complete Reddit experience:
 
 - Three-column layout (left nav, center feed, right sidebar) — identical to Reddit's desktop layout
